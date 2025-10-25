@@ -1,0 +1,9 @@
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\bin\Debug\jef.exe
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\bin\Debug\jef.pdb
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\bin\Debug\jef.xml
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\obj\x86\Debug\jef.Form1.resources
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\obj\x86\Debug\jef.Resources.resources
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\obj\x86\Debug\jef.vbproj.GenerateResource.Cache
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\obj\x86\Debug\jef.exe
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\obj\x86\Debug\jef.xml
+C:\Users\ROOM_A\AppData\Local\Temporary Projects\jef\obj\x86\Debug\jef.pdb
